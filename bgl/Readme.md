@@ -3,4 +3,4 @@ Non-Intrusive customization of "bgl" component to add a new column to "GL Accoun
 The new column will be added conditionally - only user's with certain Role (controlled by Generalized Code) will see it.
 
 # Subtitle
-aa
+Pls see "bgp.p" source code for more details.
