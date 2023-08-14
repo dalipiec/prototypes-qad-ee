@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BExchangeRate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tContextInfo>
+		<tcCompanyCode>10USACO</tcCompanyCode>
+		<tcAction/>
+		<tiPriority>0</tiPriority>
+		<ttRequestStartDate xsi:nil="true"/>
+		<tiRequestStartTime>0</tiRequestStartTime>
+		<tcComment/>
+		<tcCBFVersion>9.2</tcCBFVersion>
+		<tcComponentVersion/>
+		<tcActivityCode/>
+		<tlPartialUpdate>false</tlPartialUpdate>
+		<tcPartialUpdateExceptionList/>
+	</tContextInfo>
+	<tExchangeRate>
+		<ExchangeRateValidDateFrom>XXX</ExchangeRateValidDateFrom>
+		<ExchangeRateValidDateTill>9999-12-31</ExchangeRateValidDateTill>
+		<ExchangeRate>YYY</ExchangeRate>
+		<ExchangeRateScale>ZZZ</ExchangeRateScale>
+		<tcExchangeRateTypeCode>ACCOUNTING</tcExchangeRateTypeCode>
+		<tcFromCurrencyCode>VVV</tcFromCurrencyCode>
+		<tcToCurrencyCode>PLN</tcToCurrencyCode>
+		<LastModifiedDate>2014-07-07</LastModifiedDate>
+		<LastModifiedTime>67707</LastModifiedTime>
+		<LastModifiedUser>pl</LastModifiedUser>
+		<QADC01/>
+		<QADC02/>
+		<QADT01 xsi:nil="true"/>
+		<QADD01>0.0000000000</QADD01>
+		<tc_Rowid>0x0000000000017f01</tc_Rowid>
+		<tc_ParentRowid/>
+	</tExchangeRate>
+</BExchangeRate>
+
